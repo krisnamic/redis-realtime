@@ -12,7 +12,7 @@ Redis realtime is a learning project that implements Redis for realtime app and 
 This project created with `Redis`, `RedisJSON`, and `ReactJS`.
 
 ### Demo 
-[![Demo][demo-screenshot]]()
+![Demo][demo-screenshot]
 
 The Demonstration shows that between 4 users the data always `keep up-to-date` without delay.
 
